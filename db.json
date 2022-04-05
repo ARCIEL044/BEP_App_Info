@@ -1,11 +1,5 @@
-[
 {
-  "About" : "About sample"
-},
-{
-  "License" : "License Sample"
-},
-{
-  "Help" : "Help Sample"
+  "About" : {"content" : "About sample"},
+  "License" : {"content" : "License Sample"},
+  "Help" : {"content" : "Help Sample"}
 }
-]
